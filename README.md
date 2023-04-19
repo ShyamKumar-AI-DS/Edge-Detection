@@ -156,10 +156,12 @@ plt.xticks([])
 plt.yticks([])
 plt.show()
 
-```animal
+```
 ## Output:
 ### SOBEL EDGE DETECTOR
-
+### SOBEL-X:
+### SOBEL-Y:
+### SOBEL-XY:
 
 
 ### LAPLACIAN EDGE DETECTOR
